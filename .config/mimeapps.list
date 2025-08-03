@@ -1,0 +1,14 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-1GKY02.desktop
+message/rfc822=userapp-Thunderbird-1GKY02.desktop
+x-scheme-handler/mid=userapp-Thunderbird-1GKY02.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-J75W02.desktop
+text/calendar=userapp-Thunderbird-J75W02.desktop
+application/x-extension-ics=userapp-Thunderbird-J75W02.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-J75W02.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-1GKY02.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-1GKY02.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-J75W02.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-J75W02.desktop;
